@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import javax.swing.JTextArea;
-
+//huehuehue
 public class Lexico {
 		
 	 public static enum TokenType {	
